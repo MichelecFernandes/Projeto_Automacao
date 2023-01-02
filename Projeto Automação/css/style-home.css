@@ -1,0 +1,22 @@
+
+.titulo-principal{
+    padding-left: 20px;
+    text-align: center;
+    color: blue;
+}
+
+#img_brasil{
+    width: 100%;
+}
+
+ul{
+    display:inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    text-transform:uppercase ;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    
+}
